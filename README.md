@@ -1,6 +1,6 @@
 # PCB-Design
-1. Layout top
-![layout](https://github.com/SumaiyaTariqueLabiba/PCB-Design/assets/127126354/199cc033-f66b-405e-9f8e-2883f8a8b195)
+
+1. Layout top  ![layout](https://github.com/SumaiyaTariqueLabiba/PCB-Design/assets/127126354/199cc033-f66b-405e-9f8e-2883f8a8b195)
 2. Layout bottom
 ![layout_2](https://github.com/SumaiyaTariqueLabiba/PCB-Design/assets/127126354/fceb1cac-a7ca-4099-be06-59e2417167aa)
 3. 3D
