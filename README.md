@@ -1,5 +1,5 @@
-# PCB URL & jpg 
-### [Design URL] (https://a360.co/46B5yqA) 
+# PCB Design link and photos 
+### [Design URL: https://a360.co/46B5yqA] (https://a360.co/46B5yqA) 
 #### 1. Layout top
 ![layout](https://github.com/SumaiyaTariqueLabiba/PCB-Design/assets/127126354/199cc033-f66b-405e-9f8e-2883f8a8b195)
 #### 3. Layout bottom
